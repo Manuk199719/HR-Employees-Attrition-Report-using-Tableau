@@ -1,6 +1,6 @@
-# 💼 HR Employee Attrition Dashboard
+# 💼 HR Employees Attrition Dashboard
 
-This interactive dashboard analyzes **HR employee attrition** trends to identify key factors contributing to workforce turnover. Built using real HR data, the dashboard offers insights by job role, department, gender, marital status, promotion history, and number of companies worked.
+This interactive dashboard analyzes **HR Employees Attrition** trends to identify key factors contributing to workforce turnover. Built using real HR data, the dashboard offers insights by job role, department, gender, marital status, promotion history, and number of companies worked.
 
 ---
 

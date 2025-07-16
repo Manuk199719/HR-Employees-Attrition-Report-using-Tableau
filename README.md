@@ -6,7 +6,7 @@ This interactive dashboard analyzes **HR Employees Attrition** trends to identif
 
 ## 📊 Tableau Project
 
-[Click here to view the Tableau Dashboard](https://public.tableau.com/authoring/HREmployeesAttritionReport/Dashboard1#1)
+[Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/manu.kumari/viz/HREmployeesAttritionReport/Dashboard1)
 
 ---
 

@@ -52,8 +52,8 @@ The HR Attrition Dashboard reveals that **job dissatisfaction, lack of career pr
 ## 🛠️ Tools Used
 
 - **Tableau** for data visualization
-- **Excel/CSV** for data preprocessing
-- **HR Analytics Dataset** (public domain / anonymized)
+- **Excel** for data preprocessing
+- **HR Data Dataset** (public domain)
 
 ---
 
